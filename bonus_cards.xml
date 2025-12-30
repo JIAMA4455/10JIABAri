@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BonusCards>
+  <BonusCard>
+    <CardNumber>1234567890123456</CardNumber>
+    <ClientName>Иванов Иван Иванович</ClientName>
+    <PhoneNumber>+3759991234567</PhoneNumber>
+    <Balance>1500.50</Balance>
+    <RegistrationDate>2024-01-15</RegistrationDate>
+    <IsActive>True</IsActive>
+  </BonusCard>
+  <BonusCard>
+    <CardNumber>2345678901234567</CardNumber>
+    <ClientName>Петрова Мария Сергеевна</ClientName>
+    <PhoneNumber>+3759123456789</PhoneNumber>
+    <Balance>750.25</Balance>
+    <RegistrationDate>2024-02-20</RegistrationDate>
+    <IsActive>True</IsActive>
+  </BonusCard>
+  <BonusCard>
+    <CardNumber>3456789012345678</CardNumber>
+    <ClientName>Сидоров Петр Александрович</ClientName>
+    <PhoneNumber>+3759056789012</PhoneNumber>
+    <Balance>3200.00</Balance>
+    <RegistrationDate>2024-03-10</RegistrationDate>
+    <IsActive>True</IsActive>
+  </BonusCard>
+  <BonusCard>
+    <CardNumber>4567890123456789</CardNumber>
+    <ClientName>Козлова Анна Дмитриевна</ClientName>
+    <PhoneNumber>+3759876543210</PhoneNumber>
+    <Balance>500.00</Balance>
+    <RegistrationDate>2024-04-05</RegistrationDate>
+    <IsActive>True</IsActive>
+  </BonusCard>
+  <BonusCard>
+    <CardNumber>5678901234567890</CardNumber>
+    <ClientName>Морозов Дмитрий Викторович</ClientName>
+    <PhoneNumber>+3759112223344</PhoneNumber>
+    <Balance>0.00</Balance>
+    <RegistrationDate>2024-05-12</RegistrationDate>
+    <IsActive>True</IsActive>
+  </BonusCard>
+  <BonusCard>
+    <CardNumber>2212198723695740</CardNumber>
+    <ClientName>Иванов Иван Иванович</ClientName>
+    <PhoneNumber>+375445120437</PhoneNumber>
+    <Balance>4497000,00</Balance>
+    <RegistrationDate>2025-12-17</RegistrationDate>
+    <IsActive>True</IsActive>
+  </BonusCard>
+  <BonusCard>
+    <CardNumber>6105934098894458</CardNumber>
+    <ClientName>Солодуха владислав викторович </ClientName>
+    <PhoneNumber>+375445120834</PhoneNumber>
+    <Balance>50,00</Balance>
+    <RegistrationDate>2025-12-17</RegistrationDate>
+    <IsActive>True</IsActive>
+  </BonusCard>
+</BonusCards>
